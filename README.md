@@ -86,3 +86,4 @@ Policies. Pay attention particularly to the following aspects:
     to [section 10]
     (https://developers.google.com/maps/terms#10-license-restrictions), as it
     talks in detail about what you can do with the API, and what you can't.
+# GoogleMaps
